@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>image/max.jpg</file>
+        <file>image/mini.jpg</file>
+        <file>image/SHU.jpeg</file>
+        <file>image/shutdown.jpg</file>
+    </qresource>
+</RCC>
